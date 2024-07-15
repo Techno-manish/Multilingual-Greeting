@@ -1,0 +1,18 @@
+button {
+  padding: 10px 20px;
+  border: 1px solid red;
+  color: red;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.list {
+  list-style-type: none;
+}
+.activeColor {
+  background-color: red;
+  color: white;
+}
+.inactiveColor {
+  background-color: #fff;
+  color: red;
+}
